@@ -1,4 +1,5 @@
 # Pixi.js Mini-Game
+[Mini-Game DEMO LINK](https://ingvvvar.github.io/mini_game/)
 
 This project is a simple game developed using Pixi.js with TypeScript. The game features a background image, a specified number of animated enemies (read from a JSON file), and the ability to remove enemies by clicking on them. A counter displays the number of enemies present.
 
