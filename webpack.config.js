@@ -11,7 +11,7 @@ module.exports = (env, argv) => {
 
         // Your build destination
         output: {
-            path: path.resolve(__dirname, 'dist'),
+            path: path.resolve(__dirname, 'docs'),
             filename: 'bundle.js'
         },
 
