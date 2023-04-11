@@ -12,7 +12,8 @@ module.exports = (env, argv) => {
         // Your build destination
         output: {
             path: path.resolve(__dirname, 'docs'),
-            filename: 'bundle.js'
+            filename: 'bundle.js',
+            publicPath: '/mini_game/'
         },
 
         // Config for your testing server
